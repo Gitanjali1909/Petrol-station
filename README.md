@@ -29,9 +29,3 @@ Python (pandas, numpy), Plotly, Streamlit, Matplotlib, Seaborn
 - Add new reviews with live preview  
 - Synthetic dataset designed with realistic data  
 - Clean, interactive, and user-friendly dashboard
-
-## Future Enhancements
-- Save reviews permanently to CSV or database  
-- Add clustering for nearby pumps on the map  
-- Include additional pump attributes like fuel types and amenities  
-- Add search functionality and map zoom for better exploration
