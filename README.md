@@ -1,4 +1,4 @@
-# ⛽ Interactive Petrol Pump Ratings & Reviews Dashboard
+#Petrol Pump Ratings & Reviews 
 
 Explore petrol pumps across India — view ratings, user comments, and pump locations on an interactive map. Submit your own reviews and see live visualizations of top-rated pumps and rating distributions.
 
