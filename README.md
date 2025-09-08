@@ -8,7 +8,7 @@ This project allows users to explore petrol pumps across India interactively. Us
 **Dataset:** A synthetic dataset was generated, including 550+ petrol pumps across 28 Indian states, with realistic pump names, brands, ratings, reviews, and latitude/longitude for mapping. This demonstrates skills in **data generation, cleaning, and preparation**.
 
 ## How It Works
-- **Data & Cleaning:** `data/data-petrol.csv` contains Pump_ID, Pump Name, Brand, City, State, Latitude, Longitude, Rating, Review, and Num_Reviews. Cleaned and standardized for visualization.
+- **Data & Cleaning:** `data/data-petrol.csv` contains Pump_ID, Pump Name, Brand, City, State, Latitude, Longitude, Rating, Review. Cleaned and standardized for visualization.
 - **Interactive Map Visualization:** Uses Plotly to display pumps on a map with color-coded markers based on ratings (green = high, red = low). Hovering over a pump shows its details.
 - **Filters:** Users can select State and City dynamically to filter pumps.
 - **EDA & Stats:** Top-rated pumps table, rating distribution charts, and other summary stats.
