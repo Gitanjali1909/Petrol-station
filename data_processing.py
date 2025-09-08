@@ -18,6 +18,6 @@ def rating_distribution(df):
     return df['Rating'].value_counts().sort_index()
 
 def city_state_options(df):
-    cities = df['City'].sort_values().unique().tolist()
-    states = df['State'].sort_values().unique().tolist()
+    states = df['State'].dropna().sort_values().unique().tolist()
+    cities = df['City'].dropna().sort_values().unique().tolist()
     return cities, states
